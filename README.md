@@ -54,20 +54,29 @@
     <ul>
         <h4>for development</h4>
         <li>Visual Studio Code</li>
+        <li>Docker</li>
+        <li>VirtualBox</li>
+        <li>Unity</li>
+        <li>Unreal Engine 5</li>
+        
     </ul>
 </div>
 
 <div>
     <ul>
         <h4>for motion</h4>
-        <li>Visual Studio Code</li>
+        <li>After Affects</li>
+        <li>Cinema4D</li>
+        <li>Premier Pro</li>
     </ul>
 </div>
 
 <div>
     <ul>
         <h4>for design</h4>
-        <li>Visual Studio Code</li>
+        <li>illustrator</li>
+        <li>Figma</li>
+        <li>Photoshop</li>
     </ul>
 </div>
 

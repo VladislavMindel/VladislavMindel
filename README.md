@@ -1,4 +1,11 @@
-# Hello, I'm a full stack web3 developer. <a style="margin: 5;" target="_blank" href="https://www.behance.net/mindel/"><img src="https://cdn-icons-png.flaticon.com/512/145/145799.png" width="30px"></a>  <a style="margin: 5px;" target="_blank" href="https://t.me/vladislav_mindel"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="30px"></a> <a style="margin: 5px;" target="_blank" href="https://www.behance.net/mindel/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/640px-Instagram_icon.png" width="30px"></a>
+<h1  align="center">Hello, I'm a full stack web3 developer.</h1>
+
+<div align="center">
+    <h3>contact me</h3>
+<a target="_blank" href="https://www.behance.net/mindel/"><img src="https://cdn-icons-png.flaticon.com/512/145/145799.png" width="30px"></a>  
+<a target="_blank" href="https://t.me/vladislav_mindel"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="30px"></a> 
+<a target="_blank" href="https://www.behance.net/mindel/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/640px-Instagram_icon.png" width="30px"></a></div>
+<h3></h3>
 
     <a href="a"><a href="a"><a href="a"><a href="a"><a href="a"><a href="a"><a href="a"><a href="a"><a href="a"><a href="a"><a href="a"></a></a></a></a></a></a></a></a></a></a></a>
 

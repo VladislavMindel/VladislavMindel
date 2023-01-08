@@ -51,6 +51,20 @@
     </ul>
 </div>
 
+<div>
+    <ul>
+        <h4>for motion</h4>
+        <li>Visual Studio Code</li>
+    </ul>
+</div>
+
+<div>
+    <ul>
+        <h4>for design</h4>
+        <li>Visual Studio Code</li>
+    </ul>
+</div>
+
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vladislavmindel&" alt="vladislavmindel" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vladislavmindel&show_icons=true&locale=en" alt="vladislavmindel" /></p>
 

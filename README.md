@@ -15,3 +15,16 @@
     
 <a style="margin: 5; text-decoration: none;" href="https://stabilitydao.org/"><h4><span style="color: black;" >One of the projects I'm working on</span> <img style="vertical-align: middle;" src="https://stabilitydao.org/logo40z.png" width="20px"> <a style="text-decoration: none; font-weight: 800;" target="_blank" href="stabilitydao.org">StabilityDAO</a> </h4></a>
 
+  <h3 style="text-align: center;">What programs do I use:</h3>
+  
+  <div style="display: flex; justify-content: center;">
+    <ul>
+        <h4>3D</h4>
+        <li>sd</li>
+      </ul>
+      <ul>
+        <h4>3D</h4>
+        <li>sd</li>
+      </ul>
+        
+  </div>

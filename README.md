@@ -14,4 +14,4 @@
   </ul>
 
     
-<a style="margin: 5; text-decoration: none;" href="https://stabilitydao.org/"><p style="font-weight: 800;"><span style="color: black;" >One of the projects I'm working on</span> <img src="https://stabilitydao.org/logo40z.png" width="20px"> StabilityDAO </p></a>
+<a style="margin: 5; text-decoration: none;" href="https://stabilitydao.org/"><p style="font-weight: 800;"><span style="color: black;" >One of the projects I'm working on</span> <img style="vertical-align: middle;" src="https://stabilitydao.org/logo40z.png" width="20px"> <a style="text-decoration: none;" href="StabilityDAO">StabilityDAO</a> </p></a>

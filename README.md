@@ -14,4 +14,4 @@
   </ul>
 
     
-<h4>One of the projects I'm working on </h4><img src="https://stabilitydao.org/logo40z.png" width="20px"> [StabilityDAO](https://stabilitydao.org/)
+One of the projects I'm working on <img src="https://stabilitydao.org/logo40z.png" width="20px"> [StabilityDAO](https://stabilitydao.org/)

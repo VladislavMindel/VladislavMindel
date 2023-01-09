@@ -29,7 +29,7 @@
   </ul>
 
     
-<a style="margin: 5; text-decoration: none;" href="https://stabilitydao.org/"><h4><span style="color: black;" >One of the projects I'm working on</span> <img style="vertical-align: middle;" src="https://stabilitydao.org/logo40z.png" width="20px"> <a style="text-decoration: none; font-weight: 800;" target="_blank" href="stabilitydao.org">StabilityDAO</a> </h4></a>
+<a style="margin: 5; text-decoration: none;" href="https://stabilitydao.org/"><h4><span style="color: black;" >One of the projects I'm working on</span> <img style="vertical-align: middle;" src="https://stabilitydao.org/logo40z.png" width="20px"> <a style="text-decoration: none; font-weight: 800;" target="_blank" href="https://stabilitydao.org/">StabilityDAO</a> </h4></a>
 
 <h1></h1>
 
